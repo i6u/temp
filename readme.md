@@ -5,4 +5,4 @@ git tracks changes of files.
 creating a new branch is quick.
 creating a new branch is quick and simple.
 dq
-你那么优秀，我怎么好意思懒惰
+你那么优秀，我怎么好意思懒惰。
